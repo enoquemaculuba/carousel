@@ -1,0 +1,51 @@
+.carousel-item-container {
+    outline-style: none;
+    width: 100%;
+}
+
+
+.image-container{
+    position: relative;
+    text-align: center;
+}
+
+.carousel-item-text-container{
+    display: flex;
+    flex-direction: column;
+    padding-left:10px;
+    min-height:120px;
+    gap:4px;
+}
+
+.price{
+    position: absolute;
+    bottom:0;
+    left: 10px;
+    background-color: white;
+    padding-inline:5px;
+}
+
+.carousel-item-category{
+    color: gray;
+    font-size:12px;
+}
+
+.heart {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    text-decoration:none;
+    border: none;
+    font-size:25px;
+}
+
+@media(hover: hover) and (pointer: fine) {
+    .carousel-item-container:hover {
+        cursor: pointer;
+        outline: black solid 1px;
+    }
+    .carousel-item-container:hover .price{
+        bottom:10px;
+        transition: all .1s ease-out;
+    }
+}

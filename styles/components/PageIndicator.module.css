@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    justify-content:center;
+    align-items:center;
+    height:20px;
+    text-align:center;
+    display:flex;
+}
+.indicator{
+    margin:5px;
+    width:20px;
+    height:2px;
+    background-color:black;
+    offset-anchor: bottom;
+    transition: all 200ms linear;
+    cursor: pointer;
+}
+.indicator.selected{
+    height:7px;
+    margin-bottom:7px;
+}
+@media(hover: hover) and (pointer: fine) {
+   .indicator:hover{
+       height:7px;
+       margin-bottom:7px;
+   }
+}

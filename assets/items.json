@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "price": 120,
+      "name": "Astir Shoes",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/b64a47a9b82940968de6ae2700ab0875_9366/Astir_Shoes_Beige_GV9200_01_standard.jpg"
+    },
+    {
+      "price": 130,
+      "name": "OZWEEGO Shoes",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/81e360572bd044d0ba4fad860127c4a3_9366/OZWEEGO_Shoes_White_GW5623_01_standard.jpg"
+    },
+    {
+      "price": 55,
+      "name": "SUPERSTAR 360 2.0 SHOES",
+      "category": "Kids Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/e9824bc20a5d4148b18aae5800bc7703_9366/Superstar_360_2.0_Shoes_Green_GY3793_01_standard.jpg"
+    },
+    {
+      "price": 160,
+      "name": "Disney NMD_R1 Shoes",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/fae3e52ccebe49029351adf000a1b67a_9366/Disney_NMD_R1_Shoes_Black_GV7909_01_standard.jpg"
+    },
+    {
+      "price": 130,
+      "name": "ZX Wavian Shoes",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d92658517324ea0be27adab0107a4cb_9366/ZX_Wavian_Shoes_Beige_GY6036_01_standard.jpg"
+    },
+    {
+      "price": 150,
+      "name": "NMD_R1 Shoes",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/5a1bea0730454346bdd0adec00bc0370_9366/NMD_R1_Shoes_Grey_GY8538_01_standard.jpg"
+    },
+    {
+      "price": 75,
+      "name": "SUPERSTAR SHOES",
+      "category": "Kids Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ca8ecbdfaf74348b201ad8200ec2d8d_9366/Superstar_Shoes_White_GV7951_01_standard.jpg"
+    },
+    {
+      "price": 55,
+      "name": "NY 90 Shoes",
+      "category": "Kids Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/641902923c7d4dc2ab25ad86014f7926_9366/NY_90_Shoes_White_GY1173_01_standard.jpg"
+    },
+    {
+      "price": 120,
+      "name": "Astir Shoes",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/792a74b6f5a44e47ae9fae2700aab8f1_9366/Astir_Shoes_Black_GW4341_01_standard.jpg"
+    },
+    {
+      "price": 110,
+      "name": "CONTINENTAL 80 STRIPES SHOES",
+      "category": "Men Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/73424f22e27b40ada5ddad8601618b05_9366/Continental_80_Stripes_Shoes_White_GZ6260_01_standard.jpg"
+    },
+    {
+      "price": 110,
+      "name": "CONTINENTAL 80 STRIPES SHOES",
+      "category": "Men Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/20252adf7ce44c1b9685ad86016763e2_9366/Continental_80_Stripes_Shoes_White_GZ6262_01_standard.jpg"
+    },
+    {
+      "price": 130,
+      "name": "OZWEEGO SHOES",
+      "category": "Women Originals",
+      "imgPath": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/917f752e83c7400888dbad8601277353_9366/OZWEEGO_Shoes_White_GW5622_01_standard.jpg"
+    }
+  ]
+}
